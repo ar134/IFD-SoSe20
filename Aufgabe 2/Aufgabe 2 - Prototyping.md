@@ -43,3 +43,4 @@ Videodateien lassen sich nicht direkt in das Tool einfügen. Nicht alle Funktion
 ![Alt-Text](Aufgabe_2.2_V1.png)
 ![Alt-Text](Aufgabe_2.2_V2.png)
 ![Alt-Text](Aufgabe_2.2_V3.png)
+![Alt-Text](Aufgabe_2.2_V4.png)
