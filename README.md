@@ -6,4 +6,4 @@
 
 <a href="https://github.com/ar134/IFD-SoSe20/tree/master/Aufgabe%202">Aufgabe 2 - Prototyping</a>
 
-<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe%203/index.html">Aufgabe 3 - Prototyping - Final</a>
+<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe%203/index.html">Aufgabe 3 - Prototyping Final</a>
