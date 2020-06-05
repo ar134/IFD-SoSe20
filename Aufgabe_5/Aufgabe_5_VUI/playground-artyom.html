@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Playgroud Artyom</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div id="main">
+        <h1>Aufgabe 5 - VUI</h1>
+        <button id="btn">Browser erlauben aufs Mikrofon zuzugreifen.</button>
+        <br>
+        <br>
+        <br>
+        <ul>
+            <li><b>Befehlsliste:</b></li>
+            <li>"Hallo"</li>
+            <li>"Wie lautet dein Name", "Wer bist du", "Dein Name"</li>
+            <li>"Heutige Stückzahlen", "Anzahl der heutigen Stückzahlen", "Wie viele Stückzahlen wurden heute produziert"</li>
+            <li>"Wie viele Stückzahlen wurden am eins produziert"</li>
+            <li>"Wie viel Ausschuss gab es heute", "Heutiger Ausschuss"</li>
+            <li>"Heutige Krankmeldungen"</li>
+            <li>"Was kann ich Fragen", "Hilfe"</li>
+            <li>"Was sind die heutigen Zahlen"</li>
+        </ul>
+    </div>
+
+    <script>
+        var Jarvis = new Artyom();
+        
+        // Needed user interaction at least once in the website to make
+        // it work automatically without user interaction later... thanks google .i.
+        document.getElementById("btn").addEventListener("click", function(){
+        Jarvis.say("It works.");
+        }, false);
+    </script>
+</body>
+</html>
