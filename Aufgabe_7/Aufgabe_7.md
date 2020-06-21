@@ -2,8 +2,6 @@
 
 ## 1. Storyboard
 
-Draw.io ist ein GUI Tool, welches man auf dem Browser oder als Applikation benutzen kann. Es eignet sich sehr gut für Anfänger, da es kostenlos und einfach zu bedienen ist. Außerdem ist die Funktionalität des Tools für die meisten Projekte mehr als ausreichend.
-
 Die erste Idee ist eine Funktion einzubauen, mit der die Kamera automatisch die Person anvisiert, die gerade redet. Daher eine Art „Auto Follow“ Funktion, die per Spracheingabe aktiviert / deaktiviert werden kann. Der Nutzer sieht rechts unten ein Symbol, mit dem gezeigt wird, ob die „Auto Follow“ Funktion aktiviert ist. Ist diese nicht aktiviert, verschwindet das Symbol und der Nutzer bekommt wieder die Kontrolle über die Kamera / Ansicht.
 Die Funktion wird per Spracheingabe aktiviert / deaktiviert. Dazu kann der Nutzer beispielsweise sagen „Auto follow aktivieren“ oder „Auto follow deaktivieren“.
 
