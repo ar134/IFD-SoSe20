@@ -13,3 +13,5 @@
 <a href="https://rawcdn.githack.com/ar134/IFD-SoSe20/0c31af2be15ed534e8ee89f6c7c1dd62d953fd8c/Aufgabe_5/Aufgabe_5_VUI/playground-artyom.html">Aufgabe 5 - VUI Prototype</a>
 
 <a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_6/Aufgabe_6.pdf">Aufgabe 6 - VR Cardboard</a>
+
+<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_7/Aufgabe_7.pdf">Aufgabe 7 - Video Prototype</a>
