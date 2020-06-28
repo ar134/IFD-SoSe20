@@ -15,3 +15,5 @@
 <a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_6/Aufgabe_6.pdf">Aufgabe 6 - VR Cardboard</a>
 
 <a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_7/Aufgabe_7.md">Aufgabe 7 - Video Prototype</a>
+
+<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_7/Aufgabe_8.md">Aufgabe 8 - Video Prototype Weiterentwicklung</a>
