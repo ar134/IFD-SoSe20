@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ar134/IFD-SoSe20/tree/master/Aufgabe%202">Aufgabe 2 - Prototyping</a>
 
-<a href="https://rawcdn.githack.com/ar134/IFD-SoSe20/c410c3df79eecd02b59492ed1d2c9cd727610455/Aufgabe 3/index.html">Aufgabe 3 - Prototyping Final</a>
+<a href="https://raw.githack.com/ar134/IFD-SoSe20/master/Aufgabe_3/index.html">Aufgabe 3 - Prototyping Final</a>
 
 <a href="https://github.com/ar134/IFD-SoSe20/tree/master/Aufgabe_4/ID_Aufgabe_4.png">Aufgabe 4 - VUI Grobkonzept</a>
 
