@@ -16,31 +16,60 @@ body {
 
 h2 {
     margin: 50px 0px;
-    text-align: center;
 }
 
 ul {
+    display: flex;
     text-decoration: none;
+    width: 1000px;
+    flex-wrap: wrap;
 }
 
 ul li {
     list-style: none;
     margin: 30px 0px;
-    width: 450px;
+    width: 100%;
     display: flex;
     flex-wrap: nowrap;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.01);
 }
 
-ul li img {
+.teaser_text {
+    width: 60%;
+    display: inline;
+}
+
+.teaser_text p {
+    padding: 10px;
+    width: 100%;
+    margin: 5px;
+}
+
+.h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.text {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.teaser_gif {
+    display: flex;
+    justify-content: flex-end;
+    width: 40%;
+}
+
+img {
+    width: 300px;
 }
 
 ul li a{
     text-decoration: none;
     background-color: white;
+    display: flex;
     width: 100%;
-    padding: 15px 20px;
-    text-align: center;
     color: #111111;
     font-weight: bold;
     /*height: 100%;*/
