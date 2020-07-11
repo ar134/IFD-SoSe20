@@ -8,7 +8,7 @@ Die Idee ist eine Halskette zu entwickeln, die nicht bei Beachtung des Mindestab
 
 Ein Prototype wurde mit dem Tool „Circuits“ erstellt. Hierbei leuchtet die LED rot auf, wenn der Mindestabstand nicht eingehalten wird. 
 
-![Alt-Text](Low.png)
+![Alt-Text](Low.PNG)
 
-![Alt-Text](High.png)
+![Alt-Text](High.PNG)
 
