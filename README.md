@@ -22,4 +22,4 @@
 
 <a href="https://github.com/ar134/IFD-SoSe20/blob/master/Aufgabe_11/Aufgabe_11.md">Aufgabe 11 - Futuristic Interfaces</a>
 
-<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Endabgabe/Endabgabe.md">Endabgabe</a>
+<a href="https://github.com/ar134/IFD-SoSe20/blob/master/Endaufgabe/Endaufgabe.md">Endabgabe</a>
