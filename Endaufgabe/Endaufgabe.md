@@ -5,6 +5,8 @@
 ## 2. Customer Journey Map
 Bei dem Prototype handelt es sich um ein Produkt, welches speziell für einen Kunden konzipiert und entwickelt worden ist. Dieser Kunde wollte relevante Informationen schnell und einfach managen können, indem er, zum Beispiel, alte Datenständen mit aktuellen vergleichen konnte.
 
+## 2.1 Produktanwendung
+
 Kunde startet den Prototype. Er sieht eine Übersicht aller relevanten Informationen.
 Je nachdem was sein Vorhaben ist, könnte er sich kurz die Übersicht angucken und das Programm gleich wieder schließen, wenn seiner Meinung nach alles in Ordnung ist. Er könnte aber auch den aktuellen Stand aller Werke mit einem anderen Tag vergleichen wollen. Dafür würde er auf das Datum klicken und sein Wunschdatum eintragen. 
 
@@ -21,6 +23,10 @@ Der Kunde könnte aber auch gleich erkennen, dass eine gewünschte Information n
 Falls der Nutzer ein bestimmtes Werk gerne im Auge behalten und jederzeit zu diesem springen würde, könnte er die einzelnen Buttons rechts im Navigationsmenü anpassen. So könnte er gleich z.B. zum 4ten Werk springen.
 
 ![Alt-Text](ID_Abgabe_4.png)
+
+## 2.2 Übersicht
+
+![Alt-Text](CJM.png)
 
 ## 3. Heuristische Evaluation
 
